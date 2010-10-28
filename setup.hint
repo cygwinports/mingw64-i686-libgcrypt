@@ -1,0 +1,3 @@
+category: Devel
+requires: mingw64-i686-runtime mingw64-i686-libgpg-error
+sdesc: "libgcrypt for MinGW-w64 Win32 toolchain"
